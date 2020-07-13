@@ -1,4 +1,5 @@
-
+// rewrote code in javascript 
+// based on C++ and wrote in Javascript
 
 
  myfunction(5);
